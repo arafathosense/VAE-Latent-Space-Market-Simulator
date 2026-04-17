@@ -1,12 +1,10 @@
-
-## Dev/Creator
-
-<img width="2968" height="1648" alt="image" src="https://github.com/user-attachments/assets/05aee309-8ba3-4cdd-8469-30c8c6c08c09" />
-
+# VAE Latent Space Market Simulator
 
 ## Project Overview
 
 This project is a Variational Autoencoder (VAE) Latent Space Market Simulator. It is designed to simulate and analyze financial market data using a VAE, a type of generative machine learning model. The simulator fetches historical asset data, processes it, and uses a VAE to model the latent space of market dynamics, enabling the study of market regimes and synthetic data generation.
+
+<img width="2968" height="1648" alt="image" src="https://github.com/user-attachments/assets/05aee309-8ba3-4cdd-8469-30c8c6c08c09" />
 
 ## How It Works
 
@@ -22,6 +20,15 @@ This project is a Variational Autoencoder (VAE) Latent Space Market Simulator. I
 - [Financial Market Simulator](https://en.wikipedia.org/wiki/Financial_market)
 - [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series)
 
----
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
+
 
 
